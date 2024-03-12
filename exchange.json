@@ -1,0 +1,10 @@
+{
+  "main": "demo-acb-cloud-ide.raml",
+  "name": "Demo-ACB-Cloud-IDE",
+  "classifier": "raml",
+  "apiVersion": "v1",
+  "descriptorVersion": "1.0.0",
+  "groupId": null,
+  "assetId": "demo-acb-cloud-ide",
+  "version": "1.0.0"
+}
